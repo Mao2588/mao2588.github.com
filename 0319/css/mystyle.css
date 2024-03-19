@@ -8,7 +8,7 @@
 .main1 {
     color: #140AF9;
 }
-#img {
-    -webkit-box-shadow: 16px 16px #F7EF74;
-    box-shadow: 16px 16px #F7EF74;
+.img  {
+    -webkit-box-shadow: 20px 20px #DAD191;
+    box-shadow: 20px 20px #DAD191;
 }
