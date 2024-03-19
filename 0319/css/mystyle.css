@@ -1,5 +1,14 @@
 @charset "utf-8";
 .title1 {
+    color: #EB100B;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: underline;
 }
 .main1 {
+    color: #140AF9;
+}
+#img {
+    -webkit-box-shadow: 16px 16px #F7EF74;
+    box-shadow: 16px 16px #F7EF74;
 }
